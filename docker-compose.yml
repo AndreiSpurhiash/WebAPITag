@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  webapiteg:
+    image: dronny7799/webapiteg:latest
+    ports:
+      - "8080:8080"
+      - "8081:8081"

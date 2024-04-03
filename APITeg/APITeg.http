@@ -1,0 +1,6 @@
+@APITeg_HostAddress = http://localhost:5168
+
+GET {{APITeg_HostAddress}}/tag/
+Accept: application/json
+
+###
